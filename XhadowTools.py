@@ -110,6 +110,7 @@ def iot():
         iot()
     elif tool == "6":
         time.sleep(1)
+        os.system("clear")
         menu()
         options()
 
@@ -153,6 +154,7 @@ def socialMedia():
         socialMedia()
     elif tool == "6":
         time.sleep(1)
+        os.system("clear")
         menu()
         options()
 
@@ -196,6 +198,7 @@ def network():
         network()
     elif tool == "6":
         time.sleep(1)
+        os.system("clear")
         menu()
         options()
 
@@ -239,6 +242,7 @@ def webApp():
         webApp()
     elif tool == "6":
         time.sleep(1)
+        os.system("clear")
         menu()
         options()
 
