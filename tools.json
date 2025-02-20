@@ -1,0 +1,105 @@
+{
+"IoT": {
+    "Reconnaissance": [
+        {"name": "Amass", "url": "https://github.com/OWASP/Amass"},
+        {"name": "Sublist3r", "url": "https://github.com/aboul3la/Sublist3r"},
+        {"name": "theHarvester", "url": "https://github.com/laramies/theHarvester"}
+    ],
+    "Scanning": [
+        {"name": "Nmap", "url": "https://github.com/nmap/nmap"},
+        {"name": "Masscan", "url": "https://github.com/robertdavidgraham/masscan"},
+        {"name": "RustScan", "url": "https://github.com/RustScan/RustScan"}
+    ],
+    "Exploitation": [
+        {"name": "Metasploit", "url": "https://github.com/rapid7/metasploit-framework"},
+        {"name": "SQLmap", "url": "https://github.com/sqlmapproject/sqlmap"},
+        {"name": "ExploitDB", "url": "https://github.com/offensive-security/exploitdb"}
+    ],
+    "Post-Exploitation": [
+        {"name": "Empire", "url": "https://github.com/EmpireProject/Empire"},
+        {"name": "Mimikatz", "url": "https://github.com/gentilkiwi/mimikatz"},
+        {"name": "Cobalt Strike", "url": "https://github.com/Cobalt-Strike/Cobalt-Strike"}
+    ],
+    "Reporting": [
+        {"name": "Dradis", "url": "https://github.com/dradis/dradis-ce"},
+        {"name": "Serpico", "url": "https://github.com/SerpicoProject/Serpico"},
+        {"name": "Faraday", "url": "https://github.com/infobyte/faraday"}
+    ]
+},
+"Social Media": {
+    "Reconnaissance": [
+        {"name": "theHarvester", "url": "https://github.com/laramies/theHarvester"},
+        {"name": "Sherlock", "url": "https://github.com/sherlock-project/sherlock"},
+        {"name": "Social-Engineer Toolkit (SET)", "url": "https://github.com/trustedsec/social-engineer-toolkit"}
+    ],
+    "Phishing": [
+        {"name": "Gophish", "url": "https://github.com/gophish/gophish"},
+        {"name": "SET", "url": "https://github.com/trustedsec/social-engineer-toolkit"},
+        {"name": "SendGrid", "url": "https://github.com/sendgrid/sendgrid-python"}
+    ],
+    "Credential Stuffing": [
+        {"name": "H8Mail", "url": "https://github.com/khast3x/h8mail"},
+        {"name": "Hydra", "url": "https://github.com/vanhauser-thc/thc-hydra"},
+        {"name": "Ncrack", "url": "https://github.com/nmap/ncrack"}
+    ],
+    "Impersonation": [
+        {"name": "Fake Profile Generators", "url": ""}  
+    ],
+    "Reporting": [
+        {"name": "Dradis", "url": "https://github.com/dradis/dradis-ce"},
+        {"name": "Serpico", "url": "https://github.com/SerpicoProject/Serpico"}
+    ]
+},
+"Network": {
+    "Reconnaissance": [
+        {"name": "Nmap", "url": "https://github.com/nmap/nmap"},
+        {"name": "Masscan", "url": "https://github.com/robertdavidgraham/masscan"},
+        {"name": "theHarvester", "url": "https://github.com/laramies/theHarvester"}
+    ],
+    "Scanning": [
+        {"name": "Nmap", "url": "https://github.com/nmap/nmap"},
+        {"name": "RustScan", "url": "https://github.com/RustScan/RustScan"},
+        {"name": "OpenVAS", "url": "https://github.com/greenbone/openvas-scanner"}
+    ],
+    "Exploitation": [
+        {"name": "Metasploit", "url": "https://github.com/rapid7/metasploit-framework"},
+        {"name": "SQLmap", "url": "https://github.com/sqlmapproject/sqlmap"},
+        {"name": "Burp Suite", "url": "https://portswigger.net/burp"} 
+    ],
+    "Post-Exploitation": [
+        {"name": "Empire", "url": "https://github.com/EmpireProject/Empire"},
+        {"name": "Mimikatz", "url": "https://github.com/gentilkiwi/mimikatz"},
+        {"name": "Cobalt Strike", "url": "https://github.com/Cobalt-Strike/Cobalt-Strike"}
+    ],
+    "Reporting": [
+        {"name": "Dradis", "url": "https://github.com/dradis/dradis-ce"},
+        {"name": "Serpico", "url": "https://github.com/SerpicoProject/Serpico"},
+        {"name": "Faraday", "url": "https://github.com/infobyte/faraday"}
+    ]
+},
+"Web Application": {
+    "Reconnaissance": [
+        {"name": "theHarvester", "url": "https://github.com/laramies/theHarvester"},
+        {"name": "Sublist3r", "url": "https://github.com/aboul3la/Sublist3r"},
+        {"name": "Amass", "url": "https://github.com/OWASP/Amass"}
+    ],
+    "Scanning": [
+        {"name": "OWASP ZAP", "url": "https://github.com/zaproxy/zaproxy"},
+        {"name": "Burp Suite", "url": "https://portswigger.net/burp"},  
+        {"name": "Nikto", "url": "https://github.com/sullo/nikto"}
+    ],
+    "Exploitation": [
+        {"name": "SQLmap", "url": "https://github.com/sqlmapproject/sqlmap"},
+        {"name": "XSStrike", "url": "https://github.com/s0md3v/XSStrike"},
+        {"name": "Commix", "url": "https://github.com/commixproject/commix"}
+    ],
+    "Post-Exploitation": [
+        {"name": "Metasploit", "url": "https://github.com/rapid7/metasploit-framework"},
+        {"name": "Empire", "url": "https://github.com/EmpireProject/Empire"}
+    ],
+    "Reporting": [
+        {"name": "Dradis", "url": "https://github.com/dradis/dradis-ce"},
+        {"name": "Serpico", "url": "https://github.com/SerpicoProject/Serpico"}
+    ]
+}
+}
